@@ -1,5 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
 .hero{
     background-image: url(../images/cow\ pic.jpg) ;
+    background-size: cover;
+    background-position: bottom center;
     height: 730px;
 
 }
+.hero h1{
+    color: azure;
+    font-size: 100px;
+    text-align: center;
+    font-weight: 900;
+    font-family: cursive;
+    word-spacing: 40px;
+    letter-spacing: 20px;
+    margin-top: 60px;
+    padding-top: 60px;
+}
+    
